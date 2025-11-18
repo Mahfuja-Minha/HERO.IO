@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://static.vecteezy.com/system/resources/previews/006/057/992/non_2x/spotify-logo-on-transparent-background-free-vector.jpg",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 1,
+    "description": "Spotify is one of the world’s leading audio-streaming platforms, offering millions of songs, podcasts, and audiobooks across every genre imaginable. Whether you’re into pop, rock, hip-hop, or lo-fi beats, Spotify lets you discover and enjoy personalized playlists curated just for you. The app’s advanced recommendation engine learns from your listening habits to bring you music you’ll love, every day. With Spotify Premium, enjoy ad-free listening, offline downloads, and high-quality audio anywhere you go. Create collaborative playlists with friends, follow your favorite artists, and explore new releases instantly. Spotify isn’t just a music player — it’s a global community of listeners and creators. Whether you’re studying, working out, or relaxing, Spotify has the perfect soundtrack for every moment.",
+    "size": 95,
+    "reviews": "35M",
+    "ratingAvg": 4.4,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 26000000 }
+    ]
+  },
+  {
+    "image": "https://st2.depositphotos.com/5261163/10934/v/950/depositphotos_109348510-stock-illustration-instagram-logotype-new.jpg",
+    "title": "Instagram",
+    "companyName": "Meta Platforms Inc.",
+    "id": 2,
+    "description": "Instagram is the ultimate platform for capturing, sharing, and discovering visual stories from around the world. Designed for creators, influencers, and everyday users, Instagram lets you post photos, videos, and reels that reflect your life and creativity. Express yourself with filters, stickers, and interactive effects while connecting with friends and followers. Explore trending content, discover brands, and shop directly through posts and stories. With tools like Instagram Live, Threads, and direct messaging, staying connected has never been easier. Instagram empowers millions to build communities, promote businesses, and inspire creativity — all through the power of visual storytelling.",
+    "size": 120,
+    "reviews": "150M",
+    "ratingAvg": 4.2,
+    "downloads": "5B",
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 40000000 },
+      { "name": "5 star", "count": 96000000 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/whatsapp-icon-3d-rendering_578229-154.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "WhatsApp Messenger",
+    "companyName": "WhatsApp LLC",
+    "id": 3,
+    "description": "WhatsApp is a fast, reliable, and secure messaging app trusted by over two billion users worldwide. With end-to-end encryption, your messages, calls, photos, and videos stay private — always. Chat with individuals or create group conversations for family, friends, and work. WhatsApp lets you share files, voice notes, and location in seconds. The voice and video call quality ensures you stay close to loved ones, wherever they are. With WhatsApp Web, you can also sync your messages across devices. Whether for personal or professional use, WhatsApp keeps communication simple, safe, and seamless.",
+    "size": 80,
+    "reviews": "180M",
+    "ratingAvg": 4.6,
+    "downloads": "5B",
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "4 star", "count": 50000000 },
+      { "name": "5 star", "count": 112000000 }
+    ]
+  },
+  {
+    "image": "https://static.vecteezy.com/system/resources/previews/006/057/996/non_2x/tiktok-logo-on-transparent-background-free-vector.jpg",
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "id": 4,
+    "description": "TikTok is the world’s leading short-form video platform where creativity knows no bounds. From viral challenges to educational content, dance trends to comedy — TikTok celebrates every form of expression. The app’s smart algorithm learns your preferences and delivers a never-ending feed of entertaining, relevant videos. Whether you’re a creator or a viewer, TikTok makes it easy to film, edit, and share videos with built-in music, effects, and filters. With billions of active users, TikTok has become a global hub for culture, inspiration, and creativity — giving everyone a chance to be seen and heard.",
+    "size": 150,
+    "reviews": "80M",
+    "ratingAvg": 4.5,
+    "downloads": "3B",
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 48000000 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/snapchat-social-media-app-logo-snapchat-icon-vector_999008-2075.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 5,
+    "description": "Snapchat transforms the way you communicate with fun, ephemeral moments that disappear after viewing. Capture and share photos or videos with friends using filters, Bitmojis, and AR lenses that bring your snaps to life. Discover new stories, explore Snap Map, and stay in touch with friends in real time. With privacy at its core, Snapchat lets you decide who sees your content and for how long. Beyond messaging, it’s a creative space where authenticity thrives. Whether you’re sending streaks or exploring new filters daily, Snapchat keeps every conversation exciting and personal.",
+    "size": 95,
+    "reviews": "28M",
+    "ratingAvg": 4.1,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 10000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/YouTube_social_white_square_%282024%29.svg/1200px-YouTube_social_white_square_%282024%29.svg.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 6,
+    "description": "YouTube is the world’s largest video-sharing platform, connecting billions of viewers and creators across every corner of the globe. Whether you want to learn a new skill, stay updated on news, follow your favorite creators, or enjoy entertainment — YouTube offers an endless library of videos just for you. With personalized recommendations powered by Google’s AI, you’ll always find something that matches your interests. Subscribe to channels, like and comment on videos, or even go live to engage with your audience in real time. YouTube Premium takes your experience further with ad-free viewing, background play, and offline downloads. From educational tutorials to trending music videos and podcasts, YouTube has something for everyone. It’s more than just a video platform — it’s where the world watches, learns, and connects.",
+    "size": 160,
+    "reviews": "130M",
+    "ratingAvg": 4.3,
+    "downloads": "10B",
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 30000000 },
+      { "name": "5 star", "count": 87000000 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/telegram-icon_488108-1.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 7,
+    "description": "Telegram is a cloud-based messaging app focused on speed, security, and flexibility. With millions of users worldwide, Telegram offers seamless communication through private chats, public channels, and supergroups. It supports large file sharing, high-quality media, and unlimited cloud storage — all encrypted to protect your data. Telegram’s unique bots and automation tools make it perfect for communities, businesses, and developers. Whether you’re chatting one-on-one or managing a community of thousands, Telegram delivers unmatched reliability. You can sync your account across devices and access your data anytime. With continuous updates and cutting-edge privacy controls, Telegram stands as one of the most trusted and versatile messaging platforms in the world.",
+    "size": 70,
+    "reviews": "12M",
+    "ratingAvg": 4.5,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 8000000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_5e3Dok3w5o9sSX2BGr5toRwUEiZHlvwE2DA_6uyclF2WZaR7Z9QV561fq5VX5zJRJEc&usqp=CAU",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 8,
+    "description": "Google Maps redefines navigation with real-time GPS tracking, accurate directions, and detailed local information. Whether you’re driving, walking, cycling, or using public transport, Google Maps guides you with precision. Explore restaurants, gas stations, and landmarks around you, complete with reviews, ratings, and photos. With Live View, you can see AR-based walking directions right on your screen. Businesses rely on Maps for visibility, while travelers use it to explore new destinations safely and confidently. Offline maps ensure you never get lost, even without internet access. With traffic updates, route optimization, and integration with Google Assistant, Google Maps is your reliable travel companion wherever you go.",
+    "size": 130,
+    "reviews": "95M",
+    "ratingAvg": 4.2,
+    "downloads": "10B",
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 6000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 66000000 }
+    ]
+  },
+  {
+    "image": "https://i.guim.co.uk/img/media/945848aedd08b431ab7187f99b4c6118d36b2ee7/1_0_4998_4000/master/4998.jpg?width=480&dpr=1&s=none&crop=none",
+    "title": "Netflix",
+    "companyName": "Netflix Inc.",
+    "id": 9,
+    "description": "Netflix is the global leader in streaming entertainment, offering thousands of movies, series, documentaries, and originals — all available on demand. From award-winning dramas to heartwarming comedies, Netflix caters to every mood and taste. The app’s adaptive streaming ensures high-quality playback even with varying internet speeds. Personalized recommendations help you discover new favorites effortlessly. With one account, you can create multiple profiles, download titles for offline viewing, and enjoy ad-free entertainment anywhere. Netflix Originals like Stranger Things and Money Heist have redefined modern storytelling. Whether on your phone, laptop, or TV, Netflix delivers cinematic experiences right at your fingertips — anytime, anywhere.",
+    "size": 150,
+    "reviews": "55M",
+    "ratingAvg": 4.5,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 40500000 }
+    ]
+  },
+  {
+    "image": "https://cdn.britannica.com/34/267034-050-91CC3AFB/Pinterest-logo.jpg",
+    "title": "Pinterest",
+    "companyName": "Pinterest Inc.",
+    "id": 10,
+    "description": "Pinterest is your creative discovery engine — a visual platform for ideas, inspiration, and imagination. Whether you’re planning your dream home, discovering fashion trends, or learning recipes, Pinterest helps you organize and explore what you love. Save pins to boards, follow creators, and build personalized collections of inspiration. With visual search, you can find similar styles or ideas using just a picture. Businesses and brands also use Pinterest to connect with millions of engaged users worldwide. From DIY crafts to lifestyle goals, Pinterest turns your imagination into action — one pin at a time.",
+    "size": 90,
+    "reviews": "12M",
+    "ratingAvg": 4.4,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 7000000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9KoaxLEHfGRZYYToNi2uA0ZzawqIzPk7rDQ&s",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "id": 11,
+    "description": "Zoom is the most trusted platform for virtual meetings, online classes, and global collaboration. It enables seamless video conferencing, screen sharing, and messaging with HD quality across devices. Whether you’re working from home or studying remotely, Zoom ensures reliable and secure communication. The platform supports large webinars, breakout rooms, and real-time captions — making collaboration inclusive and efficient. With advanced encryption, you can trust every conversation to remain private. Zoom integrates with tools like Slack, Google Workspace, and Microsoft Teams for a smoother workflow. From professional meetings to virtual events, Zoom connects people everywhere with clarity and confidence.",
+    "size": 110,
+    "reviews": "8M",
+    "ratingAvg": 4.3,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 3900000 }
+    ]
+  },
+  {
+    "image": "https://oit.caes.uga.edu/wp-content/blogs.dir/7/files/2023/03/avnac.jpg",
+    "title": "Canva",
+    "companyName": "Canva Inc.",
+    "id": 12,
+    "description": "Canva empowers everyone to design stunning visuals effortlessly — from social media posts and business cards to presentations and resumes. With a user-friendly drag-and-drop editor, Canva provides millions of templates, photos, and icons that make designing fun and accessible. You can collaborate with your team in real-time, edit designs across devices, and even print your creations directly. Whether you’re a beginner or a professional designer, Canva helps you turn ideas into beautiful designs in minutes. With Canva Pro, you gain access to premium assets, brand kits, and advanced editing tools. It’s creativity without limits — simple, smart, and powerful.",
+    "size": 130,
+    "reviews": "15M",
+    "ratingAvg": 4.8,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 11800000 }
+    ]
+  },
+  {
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31i63XNCykL.jpg",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "id": 13,
+    "description": "Amazon Shopping is your one-stop destination for everything you need — from electronics and fashion to groceries and daily essentials. The app provides a smooth, secure, and personalized shopping experience with exclusive deals and lightning-fast delivery. Use smart filters to compare prices, read reviews, and track your orders in real time. Amazon Prime members enjoy free shipping, early access to sales, and streaming benefits. With secure payment options and easy returns, Amazon ensures complete peace of mind. Whether you’re shopping from home or on the go, Amazon brings millions of products right to your fingertips — fast, convenient, and reliable.",
+    "size": 140,
+    "reviews": "180M",
+    "ratingAvg": 4.5,
+    "downloads": "5B",
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 148000000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHgcU1JEmAG4s3Vn4POYYZo0S9dcz8C9ZW7g&s",
+    "title": "Twitter (X)",
+    "companyName": "X Corp.",
+    "id": 14,
+    "description": "Twitter — now rebranded as X — is the world’s leading platform for real-time conversation, breaking news, and global discussions. From trending topics to political debates, memes, and live sports coverage, Twitter keeps you connected to what’s happening right now — across the world and in your own community. With just a few words or a photo, you can express your thoughts, share updates, and engage with millions of people instantly. The app’s clean interface and personalized “For You” feed ensure you never miss the conversations that matter most. Whether you’re following your favorite creators, joining global movements, or sharing your voice, X gives everyone the power to create impact in real time. With Spaces for live audio chat, Communities for focused discussions, and premium subscriptions for enhanced visibility, Twitter has evolved into a dynamic social hub. Stay informed, entertained, and connected — because every voice matters on X.",
+    "size": 100,
+    "reviews": "75M",
+    "ratingAvg": 4.0,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 38000000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/DsyWoouXk7psjF7DCG6MJj_rX9RR9-liQskZXoKvcqQIu_ybUm4F5RntxWh1IZAVSLI",
+    "title": "Duolingo",
+    "companyName": "Duolingo Inc.",
+    "id": 15,
+    "description": "Duolingo makes language learning fun, effective, and accessible for everyone. With bite-sized lessons, interactive exercises, and gamified challenges, you can master over 40 languages — from English and Spanish to Korean and Japanese. Designed by linguistic experts, Duolingo’s adaptive learning system adjusts difficulty based on your progress. Earn XP points, unlock levels, and compete with friends as you improve your vocabulary, grammar, and pronunciation. The app also includes stories and real-life conversation practice to make learning engaging and practical. Duolingo Plus offers offline lessons, unlimited hearts, and an ad-free experience. Whether you’re a beginner or an advanced learner, Duolingo transforms language study into a daily habit that’s exciting and rewarding. Learn at your own pace, anytime, anywhere — one lesson at a time.",
+    "size": 75,
+    "reviews": "12M",
+    "ratingAvg": 4.7,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 9800000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkD31voXFZV7oeQ5DDMRpRY_sO3iU8NhlXJQ&s",
+    "title": "Slack",
+    "companyName": "Slack Technologies",
+    "id": 16,
+    "description": "Slack is the ultimate communication platform for teams — connecting people, tools, and workflows in one powerful workspace. Designed to replace email and improve productivity, Slack organizes conversations into channels, making collaboration structured and transparent. You can send direct messages, share files, and integrate with apps like Google Drive, Asana, and Trello for a seamless workflow. Powerful search, customizable notifications, and automation features keep teams focused and efficient. Whether you’re working remotely or in the office, Slack ensures communication stays organized and effortless. With huddles, video calls, and AI-powered search, teams can collaborate faster than ever. From startups to global enterprises, millions rely on Slack to keep work moving smoothly — clear, connected, and collaborative.",
+    "size": 85,
+    "reviews": "6M",
+    "ratingAvg": 4.4,
+    "downloads": "200M",
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 2500000 }
+    ]
+  },
+  {
+    "image": "https://www.noteapps.ca/content/images/2023/08/Evernote---logo-1.png",
+    "title": "Evernote",
+    "companyName": "Evernote Corporation",
+    "id": 17,
+    "description": "Evernote is your digital notebook designed to help you capture ideas, organize projects, and stay productive across every device. Whether you’re jotting down notes, saving web articles, or managing to-do lists, Evernote keeps everything in one place. With advanced search and tagging, you can find any note instantly — even handwritten ones. Sync seamlessly between phone, tablet, and computer so your work is always accessible. Evernote also supports attachments, voice memos, and document scanning for effortless organization. Premium users get extra storage, offline access, and integration with tools like Google Calendar and Slack. From students to professionals, Evernote is the go-to app for boosting creativity, focus, and organization in your daily life.",
+    "size": 60,
+    "reviews": "4M",
+    "ratingAvg": 4.5,
+    "downloads": "150M",
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 2500000 }
+    ]
+  },
+  {
+    "image": "https://themodernnonprofit.com/wp-content/uploads/2019/08/Blog-Asana-for-Nonprofits.png",
+    "title": "Asana",
+    "companyName": "Asana Inc.",
+    "id": 18,
+    "description": "Asana helps teams plan, organize, and track their work effortlessly. Whether managing personal tasks or large projects, Asana brings clarity and accountability to every workflow. Create projects, assign tasks, set deadlines, and visualize progress with Kanban boards, timelines, and calendars. With real-time updates and automation, teams stay aligned and focused. Integrations with Slack, Google Workspace, and Zoom make Asana a complete productivity hub. You can even set goals, track milestones, and measure success across departments. Simple yet powerful, Asana is trusted by millions of organizations worldwide to increase productivity and transparency. It’s not just a task manager — it’s a smarter way to get work done together.",
+    "size": 105,
+    "reviews": "5M",
+    "ratingAvg": 4.6,
+    "downloads": "100M",
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 2250000 }
+    ]
+  },
+  {
+    "image": "https://icteducationhcmussh.wordpress.com/wp-content/uploads/2016/11/dropbox-02-1024x1024.png",
+    "title": "Dropbox",
+    "companyName": "Dropbox Inc.",
+    "id": 19,
+    "description": "Dropbox is the world’s most trusted cloud storage solution — built for individuals and teams who need secure, flexible access to their files anytime, anywhere. Store, sync, and share photos, videos, and documents across all your devices with automatic backups and real-time updates. With Dropbox, you can collaborate on shared folders, leave comments on files, and restore previous versions easily. The platform offers enterprise-grade encryption, ensuring your data is always protected. Dropbox integrates with tools like Microsoft Office, Slack, and Zoom, streamlining your workflow. From personal backups to large-scale team collaboration, Dropbox keeps your digital life organized and safe — simple, fast, and reliable.",
+    "size": 120,
+    "reviews": "50M",
+    "ratingAvg": 4.5,
+    "downloads": "5B",
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 3700000 }
+    ]
+  },
+  {
+    "image": "https://assets.mofoprod.net/network/images/micorsoft-teams_logo.width-250_7CsSjZ0.jpg",
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft Corporation",
+    "id": 20,
+    "description": "Microsoft Teams is a unified communication and collaboration platform designed for modern workplaces and classrooms. It combines chat, video meetings, file sharing, and app integration into one easy-to-use hub. Create channels for different projects, hold secure video calls, and collaborate on Office 365 documents in real time. With features like meeting recording, breakout rooms, and task management, Teams empowers hybrid work and remote collaboration. Advanced security ensures your data and conversations remain protected. Whether you’re managing a global team or attending virtual classes, Microsoft Teams keeps everyone connected, productive, and engaged — transforming the way people work together.",
+    "size": 130,
+    "reviews": "6M",
+    "ratingAvg": 4.7,
+    "downloads": "100M",
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 5300000 }
+    ]
+  }
+]
