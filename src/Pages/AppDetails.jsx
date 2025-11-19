@@ -35,7 +35,7 @@ const AppDetails = () => {
     return <AppNotFound />;
   }
 
-  const { title, image, description, ratingAvg, downloads, reviews, size } =
+  const { title, companyName, image, description, ratingAvg, downloads, reviews, size } =
     app;
 
   const existingList = JSON.parse(localStorage.getItem("installedlist")) || [];
@@ -63,9 +63,9 @@ const AppDetails = () => {
           <img className="h-80 w-80" src={image} alt="" />
         </div>
         <div className=" space-y-8">
-          <div>
+          <div className="space-y-2">
             <h1 className="text-[#001931] text-3xl font-bold">{title}</h1>
-            <p></p>
+            <p className="text-xl text-[#627382]">Developed by <span className="bg-linear-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent font-semibold">{companyName}</span></p>
           </div>
           <div className="text-[#00193120] border">
             {/* <hr className="text-[#00193120]" /> */}
